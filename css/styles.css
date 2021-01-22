@@ -755,3 +755,8 @@ img {
 
   fill: var(--title-text-color);
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
